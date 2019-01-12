@@ -344,6 +344,10 @@ section {
   color: red;
 }
 
+img, video, audio {
+  max-width: 100%;
+}
+
 /*////////// FOOTER //////////*/
 
 footer {
